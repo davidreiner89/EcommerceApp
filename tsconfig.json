@@ -1,0 +1,6 @@
+{
+  "extends": "@react-native/typescript-config/tsconfig.json",
+  "compilerOptions": {
+    "typeRoots": ["./src/Types"] // le agregamos la raiz de los tipos de nuestras variables
+  }
+}
